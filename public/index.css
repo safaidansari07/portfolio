@@ -1,0 +1,16 @@
+body {
+  padding: 50px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0; 
+  background: darkcyan;
+}
+@media only screen and (min-width: 1200px) {
+  body {
+    padding: 50px 100px; 
+  }
+} 
+
+medium-portfolio {
+  --color-bg: #27818b55;
+}
